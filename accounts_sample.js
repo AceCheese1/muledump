@@ -1,13 +1,13 @@
 // editor with syntax hilighting is recommended (for example, notepad++ or textmate)
 
-accounts = {
+samples = {
 
 // Put your data here as shown below. Don't forget the commas and quotes!
 // If your emails or passwords contain single quotes,
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'email': 'pass',
+'oscar97cap@msn.com': 'catania',
 'email2': 'pass2',
 
 

@@ -1,6 +1,6 @@
 // editor with syntax hilighting is recommended (for example, notepad++ or textmate)
 
-accounts = {
+samples = {
 
 // Put your data here as shown below. Don't forget the commas and quotes!
 // If your emails or passwords contain single quotes,
@@ -21,10 +21,10 @@ rowlength = 7
 testing = 0
 
 // change to 1 to enable price display in tooltips
-prices = 0
+prices = 1
 
 // change to 1 to enable one-click login (run lib/mulelogin.au3 first)
-mulelogin = 0
+mulelogin = 1
 
 // 0 = use smart layout (fill empty spaces)
 // 1 = show account boxes row by row
